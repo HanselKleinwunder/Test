@@ -1,0 +1,8 @@
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\bin\Debug\Profile.exe.config
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\bin\Debug\Profile.exe
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\bin\Debug\Profile.pdb
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\obj\Debug\Profile.csproj.AssemblyReference.cache
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\obj\Debug\Profile.csproj.SuggestedBindingRedirects.cache
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\obj\Debug\Profile.exe
+E:\Lernen\Documents\IT\Repositories\CS-1\Profile\Profile\obj\Debug\Profile.pdb
